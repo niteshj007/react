@@ -1,0 +1,56 @@
+.delete-logo-here {
+  padding: 4px 0;
+}
+
+.delete-logo-here span {
+  padding: 0 0 0 3px;
+}
+
+.curr-logo-img {
+  width: 55px;
+  height: 50px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 9px #8080807a;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+}
+
+.char-rest {
+  font-size: 11px;
+  color: #808080ab;
+}
+
+textarea {
+  resize: inherit;
+}
+
+.profile-sec {
+  display: flex;
+}
+
+.profile-edit-sec i {
+  font-size: 20px;
+  color: #00365a;
+  cursor: pointer;
+}
+
+.profile-edit-sec {
+  margin: 0 10px;
+}
+
+.register-div {
+  text-align: center;
+}
+
+/* Register */
+
+.comp-logo {
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+.comp-logo .logo-single {
+  width: 75px;
+  height: 80px;
+  margin-bottom: 0px;
+}
